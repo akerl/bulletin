@@ -5,6 +5,7 @@ bulletin
 [![Coverage Status](https://img.shields.io/codecov/c/github/akerl/meld.svg)](https://codecov.io/github/akerl/meld)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
+Service for exposing dynamic information from other services for collection and parsing
 
 ## Usage
 
