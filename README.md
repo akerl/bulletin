@@ -1,8 +1,8 @@
 bulletin
 =========
 
-[![Build Status](https://img.shields.io/circleci/project/akerl/meld.svg)](https://circleci.com/gh/akerl/meld)
-[![Coverage Status](https://img.shields.io/codecov/c/github/akerl/meld.svg)](https://codecov.io/github/akerl/meld)
+[![Build Status](https://img.shields.io/circleci/project/akerl/bulletin.svg)](https://circleci.com/gh/akerl/bulletin)
+[![Coverage Status](https://img.shields.io/codecov/c/github/akerl/bulletin.svg)](https://codecov.io/github/akerl/bulletin)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 Service for exposing dynamic information from other services for collection and parsing
@@ -13,5 +13,5 @@ Service for exposing dynamic information from other services for collection and 
 
 ## License
 
-meld is released under the MIT License. See the bundled LICENSE file for details.
+bulletin is released under the MIT License. See the bundled LICENSE file for details.
 
