@@ -7,6 +7,16 @@ bulletin
 
 Service for exposing dynamic information from other services for collection and parsing
 
+## Purpose
+
+Here are some of the design goals of bulletin:
+
+* Allow diverse applications to easily expose information without requiring manual changes to a centralized system
+* Require zero runtime dependencies, allowing bulletin to be easily loaded alongside existing systems
+* Expose timestamps alongside all data, to allow external observers to passively validate the age of exposed data
+* Provide a minimal HTTP interface to limit attack surface and simplify communication
+* Accept and serve data using YAML
+
 ## Usage
 
 ## Installation
