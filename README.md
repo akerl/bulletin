@@ -1,3 +1,5 @@
+**Inactive Project:** I ended up shifting pretty heavily towards FaaS patterns, making this project less useful to invest in.
+
 bulletin
 =========
 
