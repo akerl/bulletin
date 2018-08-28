@@ -3,7 +3,7 @@
 bulletin
 =========
 
-[![Build Status](https://img.shields.io/circleci/project/akerl/bulletin/master.svg)](https://circleci.com/gh/akerl/bulletin)
+[![Build Status](https://img.shields.io/travis/com/akerl/bulletin.svg)](https://travis-ci.com/akerl/bulletin)
 [![Coverage Status](https://img.shields.io/codecov/c/github/akerl/bulletin.svg)](https://codecov.io/github/akerl/bulletin)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
